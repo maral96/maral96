@@ -1,4 +1,4 @@
-### Hi there 👋
+# I’m an applied machine learning researcher/enginee
 
 <!--
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
