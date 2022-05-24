@@ -1,4 +1,4 @@
-Hey!  I’m a machine learning engineer with extensive experience in computer vision and deep learning.  I have mainly worked on supervised and unsupervised image retrieval, image segmentation and classification. I implemented and evaluated several ML models in Python (PyTorch and Tensorflow). 
+Hey!  I’m a machine learning engineer with extensive experience in computer vision and deep learning.  I have mainly worked on supervised and unsupervised information retrieval, image segmentation and classification. I implemented and evaluated several ML models in Python (PyTorch and Tensorflow). 
 <!--
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
