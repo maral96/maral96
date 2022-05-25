@@ -10,7 +10,9 @@
 - Built an end-to-end AI recommendation system for x-ray image segmentation to enhance radiology diagnoses with machine learning
 -  Achieved 0.74 accuracy.
 - Coded in Python using Tensorflow, OpenCV, Scikit-Learn, Numpy, Pandas, etc.
-<img width="827" alt="pnemothorax" src="https://user-images.githubusercontent.com/73490961/170360915-fe98c0e1-f15f-4119-89f1-e493207df825.png">
+<p align="center">
+<img width="440" alt="pnemothorax" src="https://user-images.githubusercontent.com/73490961/170360915-fe98c0e1-f15f-4119-89f1-e493207df825.png">
+ <p>
 <br><br>
 
 
@@ -24,14 +26,21 @@
 
 
 -Binary convolutional neural networks for medical image classification; Implemented rotated binary network and evaluation measures in Python;  Improved the **inference speed** by **10 times** and **memory storage** by **21 times** compared to the full-precision model.
-<img width="1440" alt="RBNN_FrameWork" src="https://user-images.githubusercontent.com/73490961/170366877-5b8351c6-e264-48a5-bb99-636b9ad1d93b.png">
+<p align="center">
+<img width="440" alt="RBNN_FrameWork" src="https://user-images.githubusercontent.com/73490961/170366877-5b8351c6-e264-48a5-bb99-636b9ad1d93b.png">
+ <p>
 <br><br>
 
--Implemented U-Net topologies for artifact removal and find ROI in pathology images
--Achieved 0.99 accuracy: Jaccard Index=0.95, Dice Score: 0.97, Sensitivity: 0.99, Specificity: 0.99
-![Arch_page-0001](https://user-images.githubusercontent.com/73490961/170367637-da0e71cb-af7e-455b-b3b0-407ed9ccaaaa.jpg)
+- Implemented U-Net topologies for artifact removal and find ROI in pathology images
+- Achieved 0.99 accuracy: Jaccard Index=0.95, Dice Score: 0.97, Sensitivity: 0.99, Specificity: 0.99 
+ <p align="center">
+ <img width="260" alt="TCGA_Challenging_Cases-1 2" src= "https://user-images.githubusercontent.com/73490961/170373769-d58fc02d-ff81-4944-b5fb-b13cd107cbb4.png" />
+ <img width="440" alt="Arch-1" src= "https://user-images.githubusercontent.com/73490961/170372025-2245f534-ca4b-417f-979b-855371036d37.png" />
+</p>
 
-
+  
+- Developed deep feature extractor for medical image representation using transfer learning. Improved image search accuracy by 30% compared to pre-trained DenseNet
+  
 <!--
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
