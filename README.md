@@ -1,5 +1,5 @@
 ###### Hey, Welcome to my github page!
-- I’m a machine learning scientist/engineer with extensive experience in computer vision and deep learning.  I have mainly worked on supervised and unsupervised information retrieval, image segmentation and classification. I implemented and evaluated several ML models in Python (PyTorch, Tensorflow, sklearn).
+- I’m a machine learning scientist/engineer with extensive experience in applications of deep learning.  I have mainly worked on supervised and unsupervised information retrieval, image segmentation and classification tasks. I implemented and evaluated several ML models in Python (PyTorch, Tensorflow, sklearn).
 
 [Email](mailto:m.rasooli.j@gmail.com)  / [LinkedIn](https://www.linkedin.com/in/maralrasooli/) / [Google Scholar](https://scholar.google.ca/citations?hl=en&user=Gk_UxIMAAAAJ)
 
