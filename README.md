@@ -8,7 +8,12 @@
 **Machine Learning Researcher** @ Vector Institute _(Sep 2021 - Jan 2022)_ <br><br>
  <b>Semnatic Segmentation and object detection in medical images</b>
 - Built an end-to-end AI recommendation system for x-ray image segmentation to enhance radiology diagnoses with machine learning
--  Achieved 0.74 accuracy.
+-  Achieved 0.74 accuracy
+-  UNet++ network architecture with EfficientNet-B4 backbone (encoder)
+-  Two stages of training on public and private datasets
+-  Data augmentations: horizontal flip, rotation, random gamma, etc
+-  Loss function: combination of Dice loss and binary cross-entropy
+-  Traing setups: Adam optimizer, Cosine Annealing scheduling, early validation stopping, and K-fold cross-validation
 - Coded in Python using Tensorflow, OpenCV, Scikit-Learn, Numpy, Pandas, etc.
 <p align="center">
 <img width="440" alt="pnemothorax" src="https://user-images.githubusercontent.com/73490961/170360915-fe98c0e1-f15f-4119-89f1-e493207df825.png">
@@ -44,15 +49,3 @@
 <!--
 **maral96/maral96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m an applied machine learning researcher/engineer.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...[Single_vector_method.pdf](https://github.com/maral96/maral96/files/8774431/Single_vector_method.pdf)
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- 📫 Reach me at: [Email](mailto:m.rasooli.j@gmail.com)
--->
