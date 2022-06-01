@@ -9,8 +9,7 @@
  <b>Semnatic Segmentation and object detection in medical images</b>
 - Built an end-to-end AI recommendation system for x-ray image segmentation to enhance radiology diagnoses with machine learning
 -  Achieved 0.74 accuracy
--  UNet++ network architecture with EfficientNet-B4 backbone (encoder)
--  Two stages of training on public and private datasets
+-  Trained UNet++ with EfficientNet-B4 backbone, two stages of training on public and private datasets
 -  Data augmentations: horizontal flip, rotation, random gamma, etc
 -  Loss function: combination of Dice loss and binary cross-entropy
 -  Traing setups: Adam optimizer, Cosine Annealing scheduling, early validation stopping, and K-fold cross-validation
