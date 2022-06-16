@@ -13,6 +13,7 @@
 -  Data augmentations: horizontal flip, rotation, random gamma, etc
 -  Loss function: combination of Dice loss and binary cross-entropy
 -  Training setups: Adam optimizer, Cosine Annealing scheduling, early validation stopping, and K-fold cross-validation
+-  Post-Processed images to to draw attention to suspicious areas
 - Coded in Python using Tensorflow, OpenCV, Scikit-Learn, Numpy, Pandas, etc.
 <p align="center">
 <img width="440" alt="pnemothorax" src="https://user-images.githubusercontent.com/73490961/170360915-fe98c0e1-f15f-4119-89f1-e493207df825.png">
